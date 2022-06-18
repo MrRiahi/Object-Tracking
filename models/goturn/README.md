@@ -3,7 +3,7 @@
 Contains `goturn.prototxt` and `goturn.caffemodel` for use with OpenCV's GOTURN tracker type.
 Usage
 
-Clone the [repo](https://github.com/Mogball/goturn-files) with --depth=1 to download the files. 
+Clone the [repo](https://github.com/Mogball/goturn-files) with `--depth=1` to download the files. 
 Then unzip `goturn.caffemodel` with
 
 ```commandline
